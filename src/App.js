@@ -13,6 +13,7 @@ function App() {
   <SimpsonsFamily name={'Lisa-Marie'} img={'https://upload.wikimedia.org/wikipedia/ru/e/ec/Lisa_Simpson.png'}/>
   <SimpsonsFamily name={'Margaret-Evelyn "Maggie"'} img={'https://upload.wikimedia.org/wikipedia/ru/9/9d/Maggie_Simpson.png'}/>
 </div>
+
     <div>
       <RickMorti id={'1'} name={'Rick Sanchez'} status={'Alive'} species={'Human'} gender={'Male'}
                  img={'https://rickandmortyapi.com/api/character/avatar/328.jpeg'}/>
